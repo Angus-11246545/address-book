@@ -1,4 +1,6 @@
-package com.example.addressbook;
+package com.example.addressbook.model;
+
+import com.example.addressbook.model.Contact;
 
 import java.util.List;
 
